@@ -1,0 +1,8 @@
+*.log
+*.bak
+*.tar.gz
+.env
+*.key
+*.pem
+secrets/
+backup/
